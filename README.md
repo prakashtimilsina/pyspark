@@ -1,2 +1,2 @@
 # pyspark
-It has multiples pyspark projects and cases in  jypyter notebook format.
+It has multiples pyspark projects and cases in  juypyter notebook format.
